@@ -1,1 +1,1 @@
-Visualization of crime rate in Seoul
+Practice Visualization of Crime rate in Seoul
